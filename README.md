@@ -10,7 +10,7 @@ ACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE
 
 ```diff
 * 1) Tienes que clonar el repositorio :
-  git clone 
+  git clone https://github.com/Josblack25/hack_python_2.git
 
 * 2) Instalar los paquetes :
   pip install -r requirements.txt
